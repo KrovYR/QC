@@ -1,0 +1,4 @@
+﻿  CarTest.cpp
+D:\Documents\PS_2018-2022\3_course\5_semester\quality_control\Car\Car\Car.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Documents\PS_2018-2022\3_course\5_semester\quality_control\Car\Car\Car.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Car.vcxproj -> D:\Documents\PS_2018-2022\3_course\5_semester\quality_control\Car\Debug\Car.exe
